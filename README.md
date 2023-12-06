@@ -7,6 +7,11 @@ Everthing that I want to learn, with all the things that I need for it.
 * Dispatcher
 * Event
 * Delegate
+* How memory works
+* How Garbage Collector Works
+* CLR
+* How to return two or more values in one method
+* Type of exceptions
 
 ### WPF
 * What is SOLID?
